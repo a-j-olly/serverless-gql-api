@@ -1,0 +1,9 @@
+{
+	"statusCode": 200,
+	"headers": {
+		"content-type": "application/json; charset=utf-8",
+		"content-length": "862"
+	},
+	"body": "{\"data\":{\"getProjectListByAllTagIds\":[{\"id\":\"1\",\"name\":\"Project Alpha\",\"description\":\"A web development project using JavaScript and GraphQL\",\"releaseDate\":\"2023-01-15T00:00:00.000Z\",\"imageURL\":\"https://example.com/images/project-alpha\",\"repositoryURL\":\"https://github.com/example/project-alpha\",\"presentationURL\":\"https://example.com/project-alpha\",\"tags\":[{\"id\":\"1\",\"name\":\"JavaScript\"},{\"id\":\"3\",\"name\":\"GraphQL\"},{\"id\":\"5\",\"name\":\"Web Development\"}]},{\"id\":\"4\",\"name\":\"Project Delta\",\"description\":\"An advanced web development project using modern JavaScript frameworks\",\"releaseDate\":\"2023-04-04T23:00:00.000Z\",\"imageURL\":\"https://example.com/images/project-delta\",\"repositoryURL\":\"https://github.com/example/project-delta\",\"presentationURL\":\"https://example.com/project-delta\",\"tags\":[{\"id\":\"1\",\"name\":\"JavaScript\"},{\"id\":\"5\",\"name\":\"Web Development\"}]}]}}",
+	"isBase64Encoded": false
+}

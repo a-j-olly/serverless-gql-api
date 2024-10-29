@@ -1,0 +1,12 @@
+{
+  "name": "shared_types",
+  "version": "0.2.2",
+  "description": "Common types for aaronjayoliver.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

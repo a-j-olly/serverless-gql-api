@@ -1,0 +1,40 @@
+{
+	"version": "2.0",
+	"routeKey": "POST /graphql",
+	"rawPath": "/dev/graphql",
+	"rawQueryString": "",
+	"headers": {
+		"accept": "*/*",
+		"accept-encoding": "gzip, deflate, br",
+		"cache-control": "no-cache",
+		"content-length": "283",
+		"content-type": "application/json",
+		"host": "zlq7f5c5ee.execute-api.eu-west-1.amazonaws.com",
+		"postman-token": "5b5ae63c-d746-4b33-806e-7476e7e96dc9",
+		"user-agent": "PostmanRuntime/7.42.0",
+		"x-amzn-trace-id": "Root=1-66ed6b3f-0ce4e79a6ea150c623f00995",
+		"x-forwarded-for": "54.86.50.139",
+		"x-forwarded-port": "443",
+		"x-forwarded-proto": "https"
+	},
+	"requestContext": {
+		"accountId": "699475949061",
+		"apiId": "zlq7f5c5ee",
+		"domainName": "zlq7f5c5ee.execute-api.eu-west-1.amazonaws.com",
+		"domainPrefix": "zlq7f5c5ee",
+		"http": {
+			"method": "POST",
+			"path": "/dev/graphql",
+			"protocol": "HTTP/1.1",
+			"sourceIp": "54.86.50.139",
+			"userAgent": "PostmanRuntime/7.42.0"
+		},
+		"requestId": "eZ2x9gvGDoEEP0Q=",
+		"routeKey": "POST /graphql",
+		"stage": "dev",
+		"time": "20/Sep/2024:12:31:59 +0000",
+		"timeEpoch": 1726835519431
+	},
+	"body": "{\"query\":\"{\\r\\n    getProjectListByAllTagIds(tagIds: [\\\"1\\\", \\\"5\\\"]) {\\r\\n        id\\r\\n        name\\r\\n        description\\r\\n        releaseDate\\r\\n        imageURL\\r\\n        repositoryURL\\r\\n        presentationURL\\r\\n        tags {\\r\\n            id\\r\\n            name\\r\\n        }\\r\\n    }\\r\\n}\"}",
+	"isBase64Encoded": false
+}

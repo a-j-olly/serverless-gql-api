@@ -11,5 +11,5 @@ terraform {
 # Configure the AWS Provider
 provider "aws" {
   region  = var.aws_region
-  profile = "ajo-dev-admin"
+  profile = "gql-deployment-profile"
 }

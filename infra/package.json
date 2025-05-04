@@ -1,6 +1,6 @@
 {
 	"name": "aws",
-	"version": "0.2.2",
+	"version": "1.0.0",
 	"description": "The terraform module used to deploy the application's infrastructure",
 	"scripts": {
 		"build": "node scripts/build.mjs",

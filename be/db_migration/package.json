@@ -1,6 +1,6 @@
 {
   "name": "db_migration",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "description": "A utility class for database migration",
   "main": "index.js",
   "scripts": {

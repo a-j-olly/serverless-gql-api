@@ -1,7 +1,7 @@
 {
 	"name": "graphql_api",
-	"version": "0.2.2",
-	"description": "A graphql API serving aaronjayoliver.com",
+	"version": "1.0.0",
+	"description": "A graphql API for aws lambda using graphql-yoga",
 	"main": "index.js",
 	"scripts": {
 		"dev": "node --env-file=.env -r ts-node/register local_resolver_test.ts",

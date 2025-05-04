@@ -1,6 +1,6 @@
 {
 	"name": "serverless-gql-api",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "This API was initally built to supply the project and tag information found on aaronjayoliver.com. Now it acts as a tech demo for a serverless graphql api integrated with an Aurora Serverless V2 PostgreSQL DB.",
 	"main": "index.js",
 	"scripts": {
